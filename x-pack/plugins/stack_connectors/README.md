@@ -61,6 +61,7 @@ Kibana ships with a set of built-in connector types. See [Connectors Documentati
 In addition to the documented configurations, several built in connector type offer additional `params` configurations.
 
 ## ServiceNow ITSM
+### Sample text
 
 The [ServiceNow ITSM user documentation `params`](https://www.elastic.co/guide/en/kibana/master/servicenow-action-type.html) lists configuration properties for the `pushToService` subaction. In addition, several other subaction types are available.
 
